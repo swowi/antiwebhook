@@ -1,4 +1,7 @@
 # antiwebhook
+
+# OLD AND WILL MOST LIKELY NOT WORK IM NOT SURE I LEFT EXPLOITING COM IN 23
+
 this is just a basic antiwebhook script for roblox.
 !! YOUR EXPLOIT HAS TO HAVE HTTP REQUESTS !!
 
